@@ -17,4 +17,8 @@ It **parses incoming email**, **creates a user**, **adds to a security group**, 
 3. **Create user** in Azure AD using the Logic App connector.  
 4. **Add to group** for access control.  
 5. **Provision resources** using an ARM template (e.g., VM, permissions).  
-6. **Send Welcome Email** to the new hire.  
+6. **Send Welcome Email** to the new hire.
+## Repository Layout
+
+
+
