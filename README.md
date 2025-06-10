@@ -20,5 +20,13 @@ It **parses incoming email**, **creates a user**, **adds to a security group**, 
 6. **Send Welcome Email** to the new hire.
 ## Repository Layout
 
+## Setup & Deployment
+
+1. **Clone the repository**  
+   ```bash
+   git clone https://github.com/GB72900/Automated-Onboarding-Azure-Identities-and-Governance.git
+   cd Automated-Onboarding-Azure-Identities-and-Governance
+
+
 
 
