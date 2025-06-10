@@ -74,11 +74,7 @@ Once deployed:
 
 ## Contributing
 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-## License
-
-This project is licensed under the MIT License.
+Pull requests are welcome. For major changes, please email me an issue first to discuss what you would like to change, garett.m.blake@gmail.com
 
 ![OnBoardingAutomator - Microsoft Azure and 4 more pages - Personal - Microsoft​ Edge 6_10_2025 2_06_44 AM](https://github.com/user-attachments/assets/6c60219b-6d35-4128-87b6-e8387b63fb36)
 
