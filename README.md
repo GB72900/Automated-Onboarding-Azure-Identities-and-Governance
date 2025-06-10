@@ -9,7 +9,6 @@ It **parses incoming email**, **creates a user**, **adds to a security group**, 
 - [Usage](#usage)
 - [Prerequisites](#prerequisites)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## How it Works
 1. **Trigger**: New email arrives matching criteria.  
@@ -24,8 +23,7 @@ It **parses incoming email**, **creates a user**, **adds to a security group**, 
    │  └── NewHireOnboarding.json        🚨 Logic App definition 
    ├──┤ ARM-Templates/ 
    │  └── OnboardingResources.json      🚨 ARM template for provisioning 
-   ├── README.md
-   └── LICENSE  </pre>
+   └── README.md  </pre>
 
 
 
