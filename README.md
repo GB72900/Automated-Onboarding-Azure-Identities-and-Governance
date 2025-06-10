@@ -79,6 +79,9 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 This project is licensed under the MIT License.
 
+![OnBoardingAutomator - Microsoft Azure and 4 more pages - Personal - Microsoft​ Edge 6_10_2025 2_06_44 AM](https://github.com/user-attachments/assets/6c60219b-6d35-4128-87b6-e8387b63fb36)
+
+
 
 
 
