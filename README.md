@@ -1,6 +1,7 @@
 # Automated-Onboarding-Azure-Identities-and-Governance
 Azure Logic App to automate onboarding of new hires via email, user provisioning, and tagging.
 It **parses incoming email**, **creates a user**, **adds to a security group**, applies **resource provisioning** (via ARM template), and **sends a welcome email**.
+![DiagramLogicApp drawio (2)](https://github.com/user-attachments/assets/37134d23-7dd8-44ee-bacf-62f7e219b4ae)
 
 ## Table of Contents
 - [How it Works](#how-it-works)
