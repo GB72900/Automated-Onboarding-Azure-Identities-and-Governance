@@ -17,6 +17,16 @@ It **parses incoming email**, **creates a user**, **adds to a security group**, 
 4. **Add to group** for access control.  
 5. **Provision resources** using an ARM template (e.g., VM, permissions).  
 6. **Send Welcome Email** to the new hire.
+## Repository Layout
+<pre>  Automated-Onboarding-Azure-Identities-and-Governance/
+   ├──┤ LogicApps/ 
+   │  └── NewHireOnboarding.json        🚨 Logic App definition 
+   ├──┤ ARM-Templates/ 
+   │  └── OnboardingResources.json      🚨 ARM template for provisioning 
+   ├── README.md
+   └── LICENSE  </pre>
+
+
 
 ## Setup & Deployment
 
